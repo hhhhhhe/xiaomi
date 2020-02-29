@@ -1,0 +1,23 @@
+{
+  "id": "1656391",
+  "name": "小米商城",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11394558",
+      "name": "搜索栏发大镜",
+      "font_class": "sousuolanfadajing",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "11749549",
+      "name": "购物车-23",
+      "font_class": "gouwuche_o",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
